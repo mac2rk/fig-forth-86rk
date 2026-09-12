@@ -1,0 +1,6 @@
+__pycache__/
+assemble8080/
+*.cjs
+*.py
+*.jsonl
+*.sym

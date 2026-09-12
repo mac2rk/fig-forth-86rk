@@ -4,3 +4,4 @@ assemble8080/
 *.py
 *.jsonl
 *.sym
+*.exe

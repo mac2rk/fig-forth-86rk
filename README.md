@@ -2,7 +2,7 @@
 
 A port of **8080 FIG-FORTH 1.1** from CP/M to the **32 KB Radio-86RK**, using the computer's standard Monitor ROM for keyboard input and display output.
 
-The source uses Microsoft MACRO-80 (M80) conventions and builds with the included Python assembler, [[assemble8080](assemble8080/README.md)](https://github.com/mac2rk/assemble8080). Basic functionality has been verified in Emu80 with the Radio-86RK Monitor ROM.
+The source uses Microsoft MACRO-80 (M80) conventions and builds with the included Python assembler, [assemble8080](https://github.com/mac2rk/assemble8080). Basic functionality has been verified in Emu80 with the Radio-86RK Monitor ROM.
 
 ## What changed
 
